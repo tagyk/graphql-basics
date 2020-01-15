@@ -1,2 +1,2 @@
 # qraphql-basics
-Grapql trials
+Graphql trials
